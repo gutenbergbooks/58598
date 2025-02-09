@@ -15,7 +15,6 @@ Title: Another Brownie Book
 Author: Palmer Cox
 
 Release Date: January 2, 2019 [EBook #58598]
-[Last updated: February 13, 2021]
 
 Language: English
 
@@ -438,7 +437,6 @@ THE BROWNIES IN THE ORCHARD.
     "This man is scarcely worthy aid;
     'Tis said his harsh and cruel sway
                    Has turned his children's love away.
-				   "If this be true, 't would serve him right"
                    If frost should paint his orchard white."
                    "It matters not who owns the place,
                    Or why neglect thus shows its face,"
